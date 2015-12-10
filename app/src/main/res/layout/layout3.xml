@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/bj1"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="1.0"
+        android:gravity="center"
+        android:text="页卡3"
+        android:textColor="#000000"
+        android:textSize="22.0dip" />
+
+</LinearLayout>
